@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Gabut {
+public class MyBank {
 
     /**
      * @param args the command line arguments
